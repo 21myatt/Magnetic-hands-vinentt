@@ -33,6 +33,17 @@
     "src/Scene.tsx",
     "src/FaceBoundingBox.tsx",
     "src/FooterHud.tsx",
-    "src/HandBoundingBox.tsx"
+    "src/HandBoundingBox.tsx",
+    "src/magnetic/ExperienceStatus.tsx",
+    "src/magnetic/HandDebug.tsx",
+    "src/magnetic/Instructions.tsx",
+    "src/magnetic/MagneticObject.tsx",
+    "src/magnetic/bodyMaterial.ts",
+    "src/magnetic/config.ts",
+    "src/magnetic/effects.tsx",
+    "src/magnetic/hand.ts",
+    "src/magnetic/oneEuro.ts",
+    "src/magnetic/physics.ts",
+    "src/magnetic/world.ts"
   ]
 }
